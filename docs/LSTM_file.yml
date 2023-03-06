@@ -1,0 +1,16 @@
+tags:
+  - name: Sentiment Analysis using LSTM
+get:
+  description: File yang akan diproses
+parameters:
+  - name: upload_file
+    in: formData
+    required: required
+    type: file
+responses:
+    '200':
+      description: Successful Response
+    '400':
+      description: Bad Request
+    '500':
+      description: Internal Server Error
