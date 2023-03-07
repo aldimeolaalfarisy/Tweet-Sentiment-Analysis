@@ -1,6 +1,6 @@
 # Tweet-Sentiment-Analysis
 
-![image](https://user-images.githubusercontent.com/102453318/223132961-c9aa03f2-4524-4de4-be8a-86e4bb8afceb.png)
+![image](https://user-images.githubusercontent.com/102453318/223386553-6eee4471-935b-4b0e-877a-897cf8e1a594.png)
 
 ## Background
 
